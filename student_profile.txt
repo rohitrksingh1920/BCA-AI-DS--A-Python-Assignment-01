@@ -1,0 +1,12 @@
+----------------------------------------
+        STUDENT PROFILE SYSTEM
+----------------------------------------
+Name:      Rohit Singh
+Roll No:   2501060098
+Course:    BCA(SP AI & DS)
+University:KR MANGALAM UNIVERSITY
+City:      GRUGRAM
+Age:       19
+Hobby:     Enhances coding skills
+----------------------------------------
+Welcome to Python Programming!
